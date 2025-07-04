@@ -6,6 +6,10 @@
 
 https://youtu.be/apnfGuMI0Dc
 
+[<img src="https://img.youtube.com/vi/bltFOq9EmyM/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=bltFOq9EmyM)
+
+https://www.youtube.com/watch?v=bltFOq9EmyM&ab_channel=AbdullahShaffi
+
 # External Ressources
 This project uses a combination of these assets and tutorials :
 
