@@ -6,7 +6,10 @@
 
 https://youtu.be/apnfGuMI0Dc
 
-[<img src="https://img.youtube.com/vi/bltFOq9EmyM/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=bltFOq9EmyM)
+### 🎥 Watch the VR Anatomy System Demo
+
+[<img src="https://img.youtube.com/vi/bltFOq9EmyM/hqdefault.jpg" width="50%">](https://www.youtube.com/watch?v=bltFOq9EmyM)
+
 
 https://www.youtube.com/watch?v=bltFOq9EmyM&ab_channel=AbdullahShaffi
 
